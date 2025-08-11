@@ -1,1 +1,1 @@
-# FinSocialBert
+# FinSocialGPT
